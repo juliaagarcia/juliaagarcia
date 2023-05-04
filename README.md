@@ -1,2 +1,3 @@
 Olá, eu sou a Júlia!
-Atualmente faço faculdade de Desenvolvimento Web, gosto muito de café, filmes de terror e, mesmo sendo clichê, da fonte courier. 
+Faço faculdade de Desenvolvimento Web, gosto muito de café, filmes de terror e, mesmo sendo clichê, da fonte courier. 
+Atualmente estou me aperfeiçoando no FrontEnd com HTML, CSS e JavaScript. 🖖
